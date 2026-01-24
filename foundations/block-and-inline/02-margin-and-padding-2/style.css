@@ -17,10 +17,14 @@ body {
 
 .content {
   background: #e3f4ff;
+
+  padding: 20px;
+  font-size: 15px;
 }
 
 .button-container {
   background: #e3f4ff;
+  text-align: center;
 }
 
 button {
