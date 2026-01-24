@@ -29,10 +29,15 @@ body {
   text-align: center;
 }
 
+.content,
+.button-container {
+  padding: 12px;
+}
+
 button {
   background: white;
   border: 1px solid #eee;
   padding: 10px;
   display: block;
-  margin-left: 150px;
+  margin-left: 150px;  
 }
